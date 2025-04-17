@@ -23,22 +23,22 @@
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
-  "nickNameBot": "『 - 』•『𝚈 𝙾 𝚄 𝚁 - 𝙽 𝙸 ន ꫝ 𝙽』",
-  "prefix": "-",
+  "nickNameBot": "『 + 』 Oklang bot",
+  "prefix": "+",
   "vipUser": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "61564459952029",
+    "",
+    ""
   ],
   "orgDEV": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "61564459952029",
+    "",
+    ""
   ],
   "adminBot": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "61564459952029",
+    "",
+    ""
   ],
 "nisanBot": [
     "28297135763266706"
@@ -47,21 +47,21 @@
   "rubishapi": "https://rubish-apihub.onrender.com/rubish",
   "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
   "GOD": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "61564459952029",
+    "",
+    ""
   ],
   "DEV": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "61564459952029",
+    "",
+    "l"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61567840496026",
-      "61566989250005",
-      "61573581846659"
+      "61564459952029",
+      "",
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
