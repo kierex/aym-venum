@@ -23,12 +23,12 @@
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
-  "nickNameBot": "『 - 』 Oklang",
+  "nickNameBot": "『 - 』 John bot",
   "prefix": "-",
   "vipUser": [
     "61564459952029",
-    "",
-    ""
+    "100056093558255",
+    "61575608187669"
   ],
   "orgDEV": [
     "61564459952029",
@@ -37,8 +37,8 @@
   ],
   "adminBot": [
     "61564459952029",
-    "",
-    ""
+    "61575608187669",
+    "100056093558255"
   ],
 "nisanBot": [
     "61564459952029"
