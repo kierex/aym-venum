@@ -16,32 +16,32 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorName": "yhana alvarez",
-  "authorFB": "https://www.facebook.com/alvarezyhana997",
+  "authorName": "vern",
+  "authorFB": "https://www.facebook.com/vern.23x",
   "API": {
     "DIPTO": "https://noobs-api.onrender.com/dipto",
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
-  "nickNameBot": "『 - 』 John bot",
+  "nickNameBot": "『 - 』 abhudl ja cool",
   "prefix": "-",
   "vipUser": [
-    "61564459952029",
-    "100056093558255",
-    "61575881096143"
+    "100010099516674",
+    "100070577903608",
+    "61564407593797"
   ],
   "orgDEV": [
-    "61564459952029",
+    "100070577903608",
     "",
     ""
   ],
   "adminBot": [
-    "61564459952029",
-    "61575608187669",
-    "61575881096143"
+    "100070577903608",
+    100010099516674",
+    "61564407593797"
   ],
 "nisanBot": [
-    "61564459952029"
+    100070577903608"
   ],
 
   "rubishapi": "https://rubish-apihub.onrender.com/rubish",
@@ -52,14 +52,14 @@
     ""
   ],
   "DEV": [
-    "61564459952029",
+    "100010099516674",
     "",
     "l"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61564459952029",
+      "61564407593797",
       "",
       ""
     ],
@@ -68,7 +68,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7326972633998915"
+      "100070577903608"
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
@@ -83,7 +83,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "hopbeta327@gmail.com",
+      "email": "heroxhonattackz20@gmail.com",
       "clientId": "933675314485-93jsi5cfchvh9799qbubdhplukenjs3d.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04gtlc86p5dtQCgYIARAAGAQSNwF-L9Ir9Bcnw3F1gpDxLRDh9pK5gPcqK5NqJJI7FfKUv8fvKpZxUTLwZOW4q2DnevGffBjixwM",
